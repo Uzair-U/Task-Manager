@@ -1,2 +1,3 @@
-# Inventory-Manager
-Given a .txt file of a shoe co. inventory, this script will organise inventory, help edit and view specific queries.
+# Task-Manager
+Reads user.txt file and correlates to tasks.txt file.
+Answers queries from user based on information provided in tasks file.
